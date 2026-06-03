@@ -1,0 +1,51 @@
+{
+  "id": "mpy4r4adwfgoi2",
+  "walkNumber": 1,
+  "date": "2026-05-30",
+  "title": "Polzeath to Port Isaac",
+  "start": "Polzeath ",
+  "finish": "Port Isaac",
+  "startTime": "11:00",
+  "finishTime": "17:30",
+  "walkTime": null,
+  "distance": 18,
+  "elevation": 700,
+  "weather": [
+    "Sunny"
+  ],
+  "ground": [
+    "Dry"
+  ],
+  "terrain": [
+    "Cliff path"
+  ],
+  "temperature": 24,
+  "visibility": "Good",
+  "tide": "",
+  "difficulty": 0,
+  "wildlife": "",
+  "people": [
+    {
+      "name": "Wendy",
+      "role": "walker"
+    }
+  ],
+  "groupNotes": "",
+  "reflections": "",
+  "tips": "",
+  "photosLink": "",
+  "tags": [],
+  "photos": [],
+  "gpxMap": null,
+  "routeSegments": [
+    {
+      "startIdx": 1323,
+      "endIdx": 1402,
+      "distanceKm": 12.880438717883488,
+      "fromStartKm": 229.11293464612623,
+      "toStartKm": 241.99337336400973
+    }
+  ],
+  "createdAt": "2026-06-03T13:56:42.229Z",
+  "updatedAt": "2026-06-03T13:56:42.230Z"
+}

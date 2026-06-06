@@ -22,7 +22,12 @@
   "tide": "",
   "difficulty": 0,
   "wildlife": "",
-  "people": [],
+  "people": [
+    {
+      "name": "Wendy",
+      "role": "walker"
+    }
+  ],
   "groupNotes": "",
   "reflections": "",
   "tips": "",
@@ -39,6 +44,6 @@
       "toStartKm": 11.534752219510878
     }
   ],
-  "createdAt": "2026-06-06T12:05:36.793Z",
-  "updatedAt": "2026-06-06T12:05:36.793Z"
+  "createdAt": "2026-06-06T12:05:59.292Z",
+  "updatedAt": "2026-06-06T12:05:59.292Z"
 }

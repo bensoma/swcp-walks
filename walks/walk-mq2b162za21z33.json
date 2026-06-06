@@ -1,7 +1,7 @@
 {
   "id": "mq2b162za21z33",
   "walkNumber": 2,
-  "date": "2026-06-06",
+  "date": "2025-04-04",
   "title": "Minehead to Porlock",
   "start": "Minehead",
   "finish": "Porlock",
@@ -10,9 +10,13 @@
   "walkTime": null,
   "distance": 11.5,
   "elevation": 0,
-  "weather": [],
+  "weather": [
+    "Cloudy"
+  ],
   "ground": [],
-  "terrain": [],
+  "terrain": [
+    "Cliff path"
+  ],
   "temperature": 15,
   "visibility": "",
   "tide": "",
@@ -35,6 +39,6 @@
       "toStartKm": 11.534752219510878
     }
   ],
-  "createdAt": "2026-06-06T12:03:33.516Z",
-  "updatedAt": "2026-06-06T12:03:33.516Z"
+  "createdAt": "2026-06-06T12:05:36.793Z",
+  "updatedAt": "2026-06-06T12:05:36.793Z"
 }

@@ -1,0 +1,20 @@
+{
+  "name": "South West Coast Path — Walk Journal",
+  "short_name": "SWCP Journal",
+  "description": "Personal walk journal for the South West Coast Path with photos, GPX routes, and PDF book export. Works offline.",
+  "id": "swcp-journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "en-GB",
+  "theme_color": "#1a3a5c",
+  "background_color": "#f5f0e4",
+  "categories": ["lifestyle", "travel", "personal"],
+  "icons": [
+    { "src": "./icons/icon-192.png",         "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png",         "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-192.png","sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/icon-maskable-512.png","sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

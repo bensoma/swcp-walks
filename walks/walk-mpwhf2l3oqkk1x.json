@@ -1,0 +1,61 @@
+{
+  "id": "mpwhf2l3oqkk1x",
+  "walkNumber": 5,
+  "date": "2026-05-31",
+  "title": "Polzeath to Port Isaac",
+  "start": "Polzeath",
+  "finish": "Port Isaac",
+  "startTime": "11:00",
+  "finishTime": "17:21",
+  "walkTime": null,
+  "distance": 20,
+  "elevation": 700,
+  "weather": [
+    "Sunny"
+  ],
+  "ground": [
+    "Dry"
+  ],
+  "terrain": [],
+  "temperature": 25,
+  "visibility": "Excellent",
+  "tide": "",
+  "difficulty": 4,
+  "wildlife": "Beautiful hedgerow flowers",
+  "people": [
+    {
+      "name": "Wendy",
+      "role": "walker"
+    }
+  ],
+  "groupNotes": "",
+  "reflections": "",
+  "tips": "Number 96 Bus - every two hours ",
+  "photosLink": "",
+  "tags": [],
+  "photos": [],
+  "gpxMap": null,
+  "routeSegments": [
+    {
+      "startIdx": 1322,
+      "endIdx": 1399,
+      "distanceKm": 12.552893167206843,
+      "fromStartKm": 228.94058493076508,
+      "toStartKm": 241.49347809797194
+    }
+  ],
+  "createdAt": "2026-06-02T10:15:42.807Z",
+  "updatedAt": "2026-06-02T10:15:42.807Z",
+  "coverage": {
+    "routeId": "swcp-way",
+    "routeVersion": 1,
+    "intervals": [
+      {
+        "fromM": 228940.5849307651,
+        "toM": 241493.47809797194,
+        "source": "derived",
+        "confidence": "medium"
+      }
+    ]
+  }
+}

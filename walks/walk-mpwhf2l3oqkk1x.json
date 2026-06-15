@@ -1,6 +1,6 @@
 {
   "id": "mpwhf2l3oqkk1x",
-  "walkNumber": 5,
+  "walkNumber": 1,
   "date": "2026-05-31",
   "title": "Polzeath to Port Isaac",
   "start": "Polzeath",
@@ -44,8 +44,6 @@
       "toStartKm": 241.49347809797194
     }
   ],
-  "createdAt": "2026-06-02T10:15:42.807Z",
-  "updatedAt": "2026-06-02T10:15:42.807Z",
   "coverage": {
     "routeId": "swcp-way",
     "routeVersion": 1,
@@ -57,5 +55,7 @@
         "confidence": "medium"
       }
     ]
-  }
+  },
+  "createdAt": "2026-06-15T17:14:27.408Z",
+  "updatedAt": "2026-06-15T17:14:27.408Z"
 }

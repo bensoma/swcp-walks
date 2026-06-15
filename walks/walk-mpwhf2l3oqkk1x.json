@@ -33,7 +33,48 @@
   "tips": "Number 96 Bus - every two hours ",
   "photosLink": "",
   "tags": [],
-  "photos": [],
+  "photos": [
+    {
+      "id": "mqfjmkk2c5oh29",
+      "name": "WhatsApp Image 2026-05-30 at 19.46.15 (1).jpeg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqfjmkkdn4svw8",
+      "name": "WhatsApp Image 2026-05-30 at 19.46.15.jpeg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqfjmkkxmo98mh",
+      "name": "WhatsApp Image 2026-05-30 at 19.46.14.jpeg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqfjmkllxw8xmo",
+      "name": "WhatsApp Image 2026-05-30 at 19.45.07.jpeg",
+      "w": 1599,
+      "h": 1202,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqfjmkmex5kdo7",
+      "name": "WhatsApp Image 2026-05-30 at 19.44.24.jpeg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    }
+  ],
   "gpxMap": null,
   "routeSegments": [
     {
@@ -56,6 +97,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-15T17:14:27.408Z",
-  "updatedAt": "2026-06-15T17:14:27.408Z"
+  "createdAt": "2026-06-15T18:25:12.592Z",
+  "updatedAt": "2026-06-15T18:25:12.592Z"
 }

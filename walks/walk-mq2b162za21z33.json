@@ -44,6 +44,18 @@
       "toStartKm": 11.534752219510878
     }
   ],
-  "createdAt": "2026-06-06T12:05:59.292Z",
-  "updatedAt": "2026-06-06T12:05:59.292Z"
+  "coverage": {
+    "routeId": "swcp-way",
+    "routeVersion": 1,
+    "intervals": [
+      {
+        "fromM": 267.36001702935465,
+        "toM": 14149.413337398108,
+        "source": "manual",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "createdAt": "2026-06-17T11:50:25.510Z",
+  "updatedAt": "2026-06-17T11:50:25.510Z"
 }

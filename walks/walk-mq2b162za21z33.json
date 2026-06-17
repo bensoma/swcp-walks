@@ -26,6 +26,10 @@
     {
       "name": "Wendy",
       "role": "walker"
+    },
+    {
+      "name": "Ben",
+      "role": "walker"
     }
   ],
   "groupNotes": "",
@@ -33,7 +37,88 @@
   "tips": "",
   "photosLink": "",
   "tags": [],
-  "photos": [],
+  "photos": [
+    {
+      "id": "mqi0m0hzjpq9tw",
+      "name": "IMG-20250407-WA0007.jpg",
+      "w": 2048,
+      "h": 1538,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0izfinin5",
+      "name": "IMG-20250407-WA0009.jpg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0k514hqpv",
+      "name": "IMG-20250407-WA0023.jpg",
+      "w": 1200,
+      "h": 1600,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0lggft3mn",
+      "name": "IMG-20250407-WA0025.jpg",
+      "w": 1294,
+      "h": 1600,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0mw1j0w3j",
+      "name": "IMG-20250407-WA0032.jpg",
+      "w": 1600,
+      "h": 1200,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0o9o8pyg6",
+      "name": "IMG-20250407-WA0035.jpg",
+      "w": 1200,
+      "h": 1600,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0m0q2mcbavw",
+      "name": "IMG-20250407-WA0042.jpg",
+      "w": 1599,
+      "h": 1202,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0nwu9ral2b6",
+      "name": "PXL_20250405_101614264.jpg",
+      "w": 2000,
+      "h": 1502,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0nx7vpkburh",
+      "name": "PXL_20250404_090810085.jpg",
+      "w": 2000,
+      "h": 1506,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    },
+    {
+      "id": "mqi0nxeayug3gx",
+      "name": "PXL_20250404_120038772.jpg",
+      "w": 2000,
+      "h": 1502,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    }
+  ],
   "gpxMap": null,
   "routeSegments": [
     {
@@ -56,6 +141,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-17T11:50:25.510Z",
-  "updatedAt": "2026-06-17T11:50:25.510Z"
+  "createdAt": "2026-06-17T11:57:41.146Z",
+  "updatedAt": "2026-06-17T11:57:41.146Z"
 }

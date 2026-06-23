@@ -41,6 +41,12 @@
     "routeVersion": 1,
     "intervals": [
       {
+        "fromM": 508884.44482544204,
+        "toM": 525234.9123768067,
+        "source": "manual",
+        "confidence": "medium"
+      },
+      {
         "fromM": 799775.8376986888,
         "toM": 828762.6723854808,
         "source": "manual",
@@ -48,6 +54,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-23T16:15:03.618Z",
-  "updatedAt": "2026-06-23T16:15:03.619Z"
+  "createdAt": "2026-06-23T17:04:57.829Z",
+  "updatedAt": "2026-06-23T17:04:57.830Z"
 }

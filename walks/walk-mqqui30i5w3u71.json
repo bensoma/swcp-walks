@@ -1,0 +1,53 @@
+{
+  "id": "mqqui30i5w3u71",
+  "walkNumber": 3,
+  "date": "2026-06-23",
+  "title": "test",
+  "start": "tet",
+  "finish": "yryr",
+  "startTime": "01:11",
+  "finishTime": "06:00",
+  "walkTime": null,
+  "distance": 12,
+  "elevation": 12,
+  "weather": [],
+  "ground": [],
+  "terrain": [],
+  "temperature": 15,
+  "visibility": "",
+  "tide": "",
+  "difficulty": 0,
+  "wildlife": "",
+  "people": [],
+  "groupNotes": "",
+  "reflections": "",
+  "tips": "",
+  "photosLink": "",
+  "tags": [],
+  "photos": [
+    {
+      "id": "mqqui0st8nbrh2",
+      "name": "IMG_20161129_181658.jpg",
+      "w": 2000,
+      "h": 1500,
+      "mimeType": "image/jpeg",
+      "status": "local"
+    }
+  ],
+  "gpxMap": null,
+  "routeSegments": [],
+  "coverage": {
+    "routeId": "swcp-way",
+    "routeVersion": 1,
+    "intervals": [
+      {
+        "fromM": 799775.8376986888,
+        "toM": 828762.6723854808,
+        "source": "manual",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "createdAt": "2026-06-23T16:15:03.618Z",
+  "updatedAt": "2026-06-23T16:15:03.619Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mr9p5gf9rot20p",
+  "walkNumber": null,
+  "date": "2026-07-06",
+  "title": "Planned: 828.1–863.0 km",
+  "start": "828.1 km point",
+  "finish": "863.0 km point",
+  "startTime": "",
+  "finishTime": "",
+  "walkTime": null,
+  "distance": null,
+  "elevation": null,
+  "weather": [],
+  "ground": [],
+  "terrain": [],
+  "temperature": null,
+  "visibility": "",
+  "tide": "",
+  "difficulty": 0,
+  "wildlife": "",
+  "people": [],
+  "groupNotes": "",
+  "reflections": "",
+  "tips": "",
+  "photosLink": "",
+  "tags": [],
+  "photos": [],
+  "gpxMap": null,
+  "draft": false,
+  "planned": true,
+  "plan": {
+    "distanceKm": 34.9,
+    "ascentM": 1424,
+    "estHours": null,
+    "fromM": 828085.2580398609,
+    "toM": 862967.3743970963
+  },
+  "routeSegments": [],
+  "coverage": {
+    "routeId": "swcp-way",
+    "routeVersion": 1,
+    "intervals": [
+      {
+        "fromM": 828085.2580398609,
+        "toM": 862967.3743970963,
+        "source": "manual",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "createdAt": "2026-07-06T20:52:53.733Z",
+  "updatedAt": "2026-07-06T20:52:53.733Z"
+}

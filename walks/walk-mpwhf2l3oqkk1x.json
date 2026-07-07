@@ -7,7 +7,7 @@
   "finish": "Port Isaac",
   "startTime": "11:00",
   "finishTime": "17:21",
-  "walkTime": null,
+  "walkTime": 8,
   "distance": 20,
   "elevation": 700,
   "weather": [
@@ -80,6 +80,9 @@
     }
   ],
   "gpxMap": null,
+  "draft": false,
+  "planned": false,
+  "plan": null,
   "routeSegments": [
     {
       "startIdx": 1322,
@@ -101,6 +104,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-23T16:43:46.635Z",
-  "updatedAt": "2026-06-23T16:43:46.635Z"
+  "createdAt": "2026-07-07T09:37:23.343Z",
+  "updatedAt": "2026-07-07T09:37:23.343Z"
 }

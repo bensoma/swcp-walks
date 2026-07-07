@@ -7,7 +7,7 @@
   "finish": "yryr",
   "startTime": "01:11",
   "finishTime": "06:00",
-  "walkTime": null,
+  "walkTime": 5,
   "distance": 12,
   "elevation": 12,
   "weather": [],
@@ -35,6 +35,9 @@
     }
   ],
   "gpxMap": null,
+  "draft": false,
+  "planned": false,
+  "plan": null,
   "routeSegments": [],
   "coverage": {
     "routeId": "swcp-way",
@@ -54,6 +57,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-23T17:04:57.829Z",
-  "updatedAt": "2026-06-23T17:04:57.830Z"
+  "createdAt": "2026-07-07T09:36:03.197Z",
+  "updatedAt": "2026-07-07T09:36:03.197Z"
 }

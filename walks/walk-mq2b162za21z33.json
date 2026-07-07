@@ -7,9 +7,9 @@
   "finish": "Porlock",
   "startTime": "10:00",
   "finishTime": "16:02",
-  "walkTime": null,
+  "walkTime": 6,
   "distance": 11.5,
-  "elevation": 0,
+  "elevation": 300,
   "weather": [
     "Cloudy"
   ],
@@ -120,6 +120,9 @@
     }
   ],
   "gpxMap": null,
+  "draft": false,
+  "planned": false,
+  "plan": null,
   "routeSegments": [
     {
       "startIdx": 0,
@@ -141,6 +144,6 @@
       }
     ]
   },
-  "createdAt": "2026-06-23T16:16:50.839Z",
-  "updatedAt": "2026-06-23T16:16:50.839Z"
+  "createdAt": "2026-07-07T09:36:37.758Z",
+  "updatedAt": "2026-07-07T09:36:37.758Z"
 }

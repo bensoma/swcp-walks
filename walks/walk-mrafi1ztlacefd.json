@@ -1,0 +1,47 @@
+{
+  "id": "mrafi1ztlacefd",
+  "walkNumber": 4,
+  "date": "2026-06-07",
+  "title": "Tests",
+  "start": "Hp[e",
+  "finish": "Help",
+  "startTime": "01:00",
+  "finishTime": "08:00",
+  "walkTime": 7,
+  "distance": 29.6,
+  "elevation": null,
+  "weather": [],
+  "ground": [],
+  "terrain": [],
+  "temperature": 15,
+  "visibility": "",
+  "tide": "",
+  "difficulty": 0,
+  "wildlife": "",
+  "people": [],
+  "groupNotes": "",
+  "reflections": "",
+  "tips": "",
+  "photosLink": "",
+  "tags": [],
+  "photos": [],
+  "gpxMap": null,
+  "draft": false,
+  "planned": false,
+  "plan": null,
+  "routeSegments": [],
+  "coverage": {
+    "routeId": "swcp-way",
+    "routeVersion": 1,
+    "intervals": [
+      {
+        "fromM": 232901.680216316,
+        "toM": 262480.2314622711,
+        "source": "manual",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "createdAt": "2026-07-07T09:10:31.577Z",
+  "updatedAt": "2026-07-07T09:10:31.577Z"
+}
